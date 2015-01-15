@@ -1,8 +1,6 @@
 # Pebble--- Address-Finder
 
----
-
-## Using pebble.js, Simply.js and google Geocode API to find your current address
+### Using pebble.js, Simply.js and google Geocode API to find your current address
 
 ---
 
@@ -32,7 +30,9 @@ navigator.geolocation.getCurrentPosition(function(pos) {
 
  ---
 
- ### Steps
+ ### Steps  
+
+ - on load vibe(short) and allows scrollable text to screen is not locked
 
  - gets lat and long throught javascripit navigator.geolocation.getCurrentPosition(function(pos)
 
@@ -44,7 +44,7 @@ navigator.geolocation.getCurrentPosition(function(pos) {
 
  - prints with simply title, subtitle and text
 
- - on load vibe(short) and allows scrollable text to screen is not locked
+ 
 
 ---
 
